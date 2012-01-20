@@ -4,6 +4,11 @@ This CommonJs module gives you iPad style pop-overs on iPhone…
 
 It still needs some work.. but until I get around to it… I thought I would at least share.
 
+ToDo:
+- Create a real pop-over when on an iPad
+- Test / fix android bugs
+- Landscape mode
+
 I do request, but not require that if you modify and re-release this script, that you give me some credit… but I leave that up to you :)
 
 ----------------------------------
